@@ -1,0 +1,24 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "Alguna descripcion",
+  "main": "prueba.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "html-pdf": "^2.2.0",
+    "jsonwebtoken": "^8.5.0",
+    "morgan": "^1.9.1",
+    "odoo-xmlrpc": "^1.0.7",
+    "pg": "^8.0.3",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
